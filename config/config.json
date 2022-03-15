@@ -15,5 +15,5 @@
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/legendary-lions",
   "SHOW_BACKGROUND": false,
-  "WHITELIST": true
+  "WHITELIST": false
 }
